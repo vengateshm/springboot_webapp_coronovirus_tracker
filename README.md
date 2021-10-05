@@ -10,6 +10,12 @@ This is a corona virus tracker web application built using SpringBoot
 
 <img src="https://user-images.githubusercontent.com/40466166/136017699-8c4c69d2-710f-4b24-9e30-a2c718cdcd01.png" width="720" height="480"/> 
 
+**Run via maven**
+
+- Install maven CLI and add to system path of respective OS
+- mvn clean install
+- java -jar <JAR FILE WITH PATH>.jar (Java must be installed and added to system path)
+
 **References**
 
 https://www.youtube.com/watch?v=8hjNG9GZGnQ&t=261s
